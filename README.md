@@ -7,76 +7,65 @@ The projects focus on **data exploration, visualization, and sentiment analysis*
 
 ## 📌 Project Overview
 
-The objective of these tasks is to apply data analytics concepts to real-world datasets and extract meaningful insights through exploratory data analysis (EDA), visualizations, and basic natural language processing (NLP).
+The objective of these tasks is to apply data analytics concepts to real-world datasets and extract meaningful insights through:
 
-The tasks demonstrate:
-- Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
 - Data visualization
-- Sentiment analysis on textual data
+- Basic Natural Language Processing (NLP)
 
 ---
 
 ## 📂 Repository Structure
 
 codealpha_tasks_Data-Analytics/
-│
-├── Task 1 - Exploratory Data Analysis
-│ └── (EDA notebook / files)
-│
-├── Task 2 - Data Visualization
-│ └── (visualization notebook / files)
-│
-├── Task 3 - Sentiment Analysis
-│ └── (NLP and sentiment analysis notebook)
-│
+├── codealpha_tasks_Data-Analytics Task 1 Exploratory Data Analysis (EDA).ipynb
+├── codealpha_tasks_Data-Analytics TASK 2 Data Visualization.ipynb
+├── codealpha_tasks_Data-Analytics TASK 3 Sentiment Analysis.ipynb
 ├── LICENSE
 └── README.md
 
-yaml
-Copy code
 
 ---
 
 ## 🧰 Tools & Technologies Used
 
-- **Python**
-- **Pandas**
-- **NumPy**
-- **Matplotlib**
-- **Seaborn**
-- **NLTK**
-- **TextBlob**
-- **Jupyter Notebook**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- NLTK
+- TextBlob
+- Jupyter Notebook
 
 ---
 
 ## 📝 Task Details
 
 ### 🔹 Task 1: Exploratory Data Analysis (EDA)
-- Dataset understanding and inspection
-- Handling missing values
-- Statistical summary
-- Identifying patterns and trends
+- Dataset understanding and inspection  
+- Handling missing values  
+- Statistical summaries  
+- Identifying patterns and trends  
 
 ### 🔹 Task 2: Data Visualization
-- Visual representation of data using charts and graphs
-- Understanding distributions and relationships
-- Improved data interpretation through visuals
+- Visual representation using charts and graphs  
+- Understanding data distributions  
+- Analyzing relationships between variables  
 
 ### 🔹 Task 3: Sentiment Analysis
-- Text preprocessing
-- Polarity and subjectivity analysis
-- Understanding customer opinions using NLP techniques
+- Text preprocessing  
+- Polarity and subjectivity analysis  
+- Understanding customer opinions using NLP techniques  
 
 ---
 
 ## 🎯 Key Learnings
 
-- Practical experience in real-world data analysis
-- Improved understanding of EDA techniques
-- Hands-on exposure to visualization best practices
-- Introduction to sentiment analysis and NLP
+- Practical experience with real-world datasets  
+- Strong understanding of EDA techniques  
+- Hands-on exposure to data visualization best practices  
+- Introduction to sentiment analysis and NLP  
 
 ---
 
